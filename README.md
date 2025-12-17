@@ -23,6 +23,9 @@ sales performance, profitability, customer contribution, and regional trends.
 - South region records the highest sales compared to other regions.
 - Top customers generate a significant portion of revenue.
 
+## Dashboard Preview
+![Dashboard Screenshot](Dashboard_Screenshot.png)
+
 ## Business Recommendations
 - Focus on high-performing categories and regions.
 - Plan seasonal campaigns during peak months.
