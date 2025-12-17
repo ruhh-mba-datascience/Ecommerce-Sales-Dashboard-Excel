@@ -24,7 +24,7 @@ sales performance, profitability, customer contribution, and regional trends.
 - Top customers generate a significant portion of revenue.
 
 ## Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](Dashboard_Screenshot.png.png)
 
 ## Business Recommendations
 - Focus on high-performing categories and regions.
