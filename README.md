@@ -37,7 +37,7 @@ The dashboard is designed for **quick decision-making** and is suitable for **Da
 ---
 
 ## 📸 Dashboard Preview
-![E-Commerce Sales Dashboard](Dashboard screenshot.png)
+![E-Commerce Sales Dashboard](Dashboard_screenshot.png)
 
 ---
 
